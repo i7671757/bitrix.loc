@@ -1,0 +1,3 @@
+<?
+$sSectionName="exempl 1";
+?>
